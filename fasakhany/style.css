@@ -1,0 +1,16 @@
+
+.client-comment-section .client-slider .slick-dots li,
+.client-comment-section .client-slider .slick-dots li button,
+.client-comment-section .client-slider .slick-dots li button::before {
+    width: 18px !important;
+    height: 8px !important;
+    border-radius: 55px !important;
+}
+
+.client-comment-section .client-slider .slick-dots .slick-active,
+.client-comment-section .client-slider .slick-dots .slick-active button,
+.client-comment-section .client-slider .slick-dots .slick-active button::before {
+    width: 25px !important;
+    height: 8px !important;
+    border-radius: 55px !important;
+}
